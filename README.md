@@ -1,2 +1,2 @@
-# translation_poc
-A POC repo to test out translation tools
+# Translation POC
+A proof of concept repo to test out translation tools

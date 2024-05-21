@@ -1,0 +1,12 @@
+/* NEWAPPS-14684 - Message - Blocking user to delete car used in ongoing parking or EVC */
+"Alert.DeleteCarNotAllowedMessage" = "Du kan ta bort fordonet så snart den aktiva parkeringen eller laddningen med det är över";
+"Label.BucketParking.ServiceFeeeMightApply" = "Serviceavgift kan tillkomma vid utcheckning";
+"Title.BucketParking.PurchaseCompleted" = "Köp slutfört";
+"Title.BucketParking.ConfirmPurchase" = "Bekräfta köp";
+"Title.BucketParking.ParkingSummary" = "Parkeringssammanfattning";
+"Title.BucketParking.CancellationPolicy" = "Avbokningspolicy";
+
+/* can we see this comment in the translation tool? */
+"Label.BucketParking.StartTime" = "Starttid";
+"Label.BucketParking.EndTime" = "Sluttid";
+"Label.BucketParking.TicketType" = "Biljetttyp";

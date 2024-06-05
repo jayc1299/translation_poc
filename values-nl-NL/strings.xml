@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Headline of EVC socket selector dialog -->
+    <string name="alert_delete_car_not_allowed">U bent van harte welkom om het voertuig te verwijderen zodra het actieve parkeren of opladen ermee voorbij is</string>
+    <!-- Text of EVC socket selector dialog -->
+    <string name="title_bucketparking_servicefee">Servicekosten kunnen van toepassing zijn bij het afrekenen</string>
+    <!-- EVC plug status available -->
+    <string name="title_bucketparking_purchase_complete">Aankoop voltooid</string>
+    <!-- EVC plug status charging -->
+    <string name="title_bucketparking_confirmpurchase">Aankoop bevestigen</string>
+    <!-- EVC plug status reserved -->
+    <string name="title_bucketparking_cancellationpolicy">Parkeren samenvatting</string>
+    <!-- EVC plug status not available/unknown status -->
+    <string name="evc_plug_status_not_available">Annulering</string>
+    <string name="label_bucketparkin_starttime">Begintijd</string>
+    <string name="label_bucketparking_endtime">Eindtijd</string>
+    <string name="labal_bucketparking_tickettype">Soort ticket</string>
+    <string name="do_not_translate_tester" translatable="false">%1$02.2f %2$s</string>
+</resources>

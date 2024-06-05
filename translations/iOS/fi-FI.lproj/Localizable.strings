@@ -1,0 +1,12 @@
+/* NEWAPPS-14684 - Message - Blocking user to delete car used in ongoing parking or EVC */
+"Alert.DeleteCarNotAllowedMessage" = "Voit poistaa ajoneuvon heti, kun aktiivinen pysäköinti tai lataus sillä on ohi";
+"Label.BucketParking.ServiceFeeeMightApply" = "Palvelumaksu voidaan periä kassalla";
+"Title.BucketParking.PurchaseCompleted" = "Osto suoritettu";
+"Title.BucketParking.ConfirmPurchase" = "Vahvista ostos";
+"Title.BucketParking.ParkingSummary" = "Pysäköinti yhteenveto";
+"Title.BucketParking.CancellationPolicy" = "Peruutuskäytäntö";
+
+/* can we see this comment in the translation tool? */
+"Label.BucketParking.StartTime" = "Aloitusaika";
+"Label.BucketParking.EndTime" = "Loppu aika";
+"Label.BucketParking.TicketType" = "Lipun tyyppi";

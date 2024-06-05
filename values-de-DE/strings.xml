@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Headline of EVC socket selector dialog -->
+    <string name="alert_delete_car_not_allowed">Sobald das aktive Parken oder Laden mit dem Fahrzeug beendet ist, können Sie es gerne löschen</string>
+    <!-- Text of EVC socket selector dialog -->
+    <string name="title_bucketparking_servicefee">Beim Bezahlvorgang fällt möglicherweise eine Servicegebühr an.</string>
+    <!-- EVC plug status available -->
+    <string name="title_bucketparking_purchase_complete">Kauf abgeschlossen</string>
+    <!-- EVC plug status charging -->
+    <string name="title_bucketparking_confirmpurchase">Bestätige den Kauf</string>
+    <!-- EVC plug status reserved -->
+    <string name="title_bucketparking_cancellationpolicy">Parken Zusammenfassung</string>
+    <!-- EVC plug status not available/unknown status -->
+    <string name="evc_plug_status_not_available">Stornierungsbedingungen</string>
+    <string name="label_bucketparkin_starttime">Startzeit</string>
+    <string name="label_bucketparking_endtime">Endzeit</string>
+    <string name="labal_bucketparking_tickettype">Art des Tickets</string>
+    <string name="do_not_translate_tester" translatable="false">%1$02.2f %2$s</string>
+</resources>

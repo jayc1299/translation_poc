@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Headline of EVC socket selector dialog -->
+    <string name="alert_delete_car_not_allowed">Voit poistaa ajoneuvon heti, kun aktiivinen pysäköinti tai lataus sillä on ohi</string>
+    <!-- Text of EVC socket selector dialog -->
+    <string name="title_bucketparking_servicefee">Palvelumaksu voidaan periä kassalla</string>
+    <!-- EVC plug status available -->
+    <string name="title_bucketparking_purchase_complete">Osto suoritettu</string>
+    <!-- EVC plug status charging -->
+    <string name="title_bucketparking_confirmpurchase">Vahvista ostos</string>
+    <!-- EVC plug status reserved -->
+    <string name="title_bucketparking_cancellationpolicy">Pysäköinti yhteenveto</string>
+    <!-- EVC plug status not available/unknown status -->
+    <string name="evc_plug_status_not_available">Peruutuskäytäntö</string>
+    <string name="label_bucketparkin_starttime">Aloitusaika</string>
+    <string name="label_bucketparking_endtime">Loppu aika</string>
+    <string name="labal_bucketparking_tickettype">Lipun tyyppi</string>
+    <string name="do_not_translate_tester" translatable="false">%1$02.2f %2$s</string>
+</resources>

@@ -1,0 +1,12 @@
+/* NEWAPPS-14684 - Message - Blocking user to delete car used in ongoing parking or EVC */
+"Alert.DeleteCarNotAllowedMessage" = "Sobald das aktive Parken oder Laden mit dem Fahrzeug beendet ist, können Sie es gerne löschen";
+"Label.BucketParking.ServiceFeeeMightApply" = "Beim Bezahlvorgang fällt möglicherweise eine Servicegebühr an.";
+"Title.BucketParking.PurchaseCompleted" = "Kauf abgeschlossen";
+"Title.BucketParking.ConfirmPurchase" = "Bestätige den Kauf";
+"Title.BucketParking.ParkingSummary" = "Parken Zusammenfassung";
+"Title.BucketParking.CancellationPolicy" = "Stornierungsbedingungen";
+
+/* can we see this comment in the translation tool? */
+"Label.BucketParking.StartTime" = "Startzeit";
+"Label.BucketParking.EndTime" = "Endzeit";
+"Label.BucketParking.TicketType" = "Art des Tickets";

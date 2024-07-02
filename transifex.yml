@@ -1,0 +1,13 @@
+git:
+  filters:
+    - filter_type: dir
+      file_format: KEYVALUEJSON
+      source_file_extension: json
+      source_language: en
+      source_file_dir: apps/localization/src/localization/locale
+      translation_files_expression: 'apps/localization/src/localization/locale/<lang>.json'
+
+  settings:
+    language_mapping:
+      fr_FR: fr-FR
+      

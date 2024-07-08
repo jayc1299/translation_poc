@@ -15,5 +15,6 @@
     <string name="label_bucketparkin_starttime">Start time</string>
     <string name="label_bucketparking_endtime">End time</string>
     <string name="labal_bucketparking_tickettype">Ticket Type</string>
+    <string name="test">test</string>
     <string name="do_not_translate_tester" translatable="false">%1$02.2f %2$s</string>
 </resources>

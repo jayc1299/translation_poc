@@ -1,10 +1,10 @@
 git:
   filters:
-    - filter_type: dir
-      file_format: KEYVALUEJSON
-      source_file_extension: json
+    - filter_type: file
+      file_format: ANDROID
+      source_file_extension: xml
       source_language: en
-      source_file_dir: apps/localization/src/localization/locale
+      source_file: 'translations/Android/strings.xml'
       translation_files_expression: 'apps/localization/src/localization/locale/<lang>.json'
 
   settings:

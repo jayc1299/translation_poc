@@ -6,8 +6,3 @@ git:
       source_language: en
       source_file: translations/Android/strings.xml
       translation_files_expression: 'apps/localization/src/localization/locale/<lang>.json'
-
-  settings:
-    language_mapping:
-      fr_FR: fr-FR
-      

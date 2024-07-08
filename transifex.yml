@@ -2,7 +2,6 @@ git:
   filters:
     - filter_type: file
       file_format: Android
-      source_file_extension: xml
       source_language: en
       source_file: translations/Android/strings.xml
       translation_files_expression: 'apps/localization/src/localization/locale/<lang>.json'
